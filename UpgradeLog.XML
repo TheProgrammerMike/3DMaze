@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="First3D">
+</Property><Property Name="Solution File" Value="C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\First3D.sln">
+</Property><Property Name="Date" Value="Sunday, April 29, 2012">
+</Property><Property Name="Time" Value="13:24:59 PM">
+</Property></Properties><Event ErrorLevel="0" Project="First3D" Source="First3D.vcproj" Description="Converting project file 'C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\First3D.vcproj'.">
+</Event><Event ErrorLevel="1" Project="First3D" Source="First3D.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="First3D" Source="First3D.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\.\Debug\First3D.exe') does not match the Linker's OutputFile property value '.\Debug/First3D.exe' ('C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\Debug/First3D.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="First3D" Source="First3D.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\.\Release\First3D.exe') does not match the Linker's OutputFile property value '.\Release/First3D.exe' ('C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\Release/First3D.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="First3D" Source="First3D.vcproj" Description="Done converting to new project file 'C:\Users\Michael Bekesz\Desktop\MyProgs\Programming years 07 08\Fall07\First3D\First3D.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="First3D" Source="First3D.vcproj" Description="Converted">
+</Event></UpgradeLog>
